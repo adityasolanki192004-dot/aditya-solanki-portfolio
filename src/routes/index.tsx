@@ -362,14 +362,7 @@ function Hero() {
             Explore Portfolio
             <ArrowUpRight className="w-4 h-4 group-hover:rotate-45 transition-transform" />
           </a>
-          <a
-            href="/resume.pdf"
-            download
-            className="rounded-full border border-border bg-white px-6 py-3 text-sm font-medium flex items-center gap-2 hover:bg-secondary transition"
-          >
-            <Download className="w-4 h-4" />
-            Download Resume
-          </a>
+        
         </motion.div>
       </motion.div>
     </section>
